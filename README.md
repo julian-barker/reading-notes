@@ -1,4 +1,6 @@
-<img src="https://user-images.githubusercontent.com/67075338/182220758-1fd78e59-26e5-4f91-8aaf-b046fd877b1f.jpeg" alt="A rainy WAlk in the woods..." width="30%" margin-left:"auto" margin-right:"auto">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/67075338/182220758-1fd78e59-26e5-4f91-8aaf-b046fd877b1f.jpeg" alt="A rainy WAlk in the woods..." width="30%">
+</div>
 
 ## About Me
 
@@ -24,5 +26,3 @@
 
 https://github.com/julian-barker
 
-
-![A rainy WAlk in the woods](https://user-images.githubusercontent.com/67075338/182220758-1fd78e59-26e5-4f91-8aaf-b046fd877b1f.jpeg)
