@@ -54,5 +54,5 @@ In the words of William Ernest Henley:
   2. RGB (redg/green/blue) - \`rgb(R,G,B)\` - value 0-255 - `rgb(255,0,255)`
   3. HSL (hue/saturation/light) 0 \`hsl(H,S,L)\` - value H=0-360 S/L=0-100% - `hsl(200, 50%, 80%)`
 - Mention a person or a team with \@ followed by their name ex. @julian-barker . This will send send them a notification.
-- Add a link by pasting one in or typing the text or name of the link in brackets ( \[\] ) followed by the url in parentheses ex. [My Reading Notes](julian-barker.github.io/reading-notes)
+- Add a link by pasting one in or typing the text or name of the link in brackets ( \[\] ) followed by the url in parentheses ex. \[My Reading Notes\](https://julian-barker.github.io/reading-notes/) becomes [My Reading Notes](https://julian-barker.github.io/reading-notes/)
 
