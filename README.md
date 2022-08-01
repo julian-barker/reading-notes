@@ -13,7 +13,7 @@
 
 #### Portfolio:
 
-https://github.com/julian-barker
+[My GitHub Portfolio](https://github.com/julian-barker)
 
 ## Growth Mindset
 
