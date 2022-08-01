@@ -1,7 +1,6 @@
 ## About Me
 
 - 👋 Hi, I’m @julian-barker
-- I am coming from a 
 - 👀 I am coming out of 6 years in the Army as an Infantry Officer. I’m now interested in learning cyber security and software/web development. In my free time, I enjoy Scuba diving, hunting, and would like to learn to fish. I also enjoy climbing, surfing, being in the wilderness, playing with my dog, and watching anime / reading manga (especially One Piece)
 - 🌱 I’m currently learning Javascript through Code Fellows
 - 💞️ I’m looking to collaborate on ... TBD
