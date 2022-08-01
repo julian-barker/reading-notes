@@ -11,6 +11,10 @@
 - 📫 How to reach me ...
   - email: julian.c.barker@gmail.com
 
+### Portfolio:
+
+https://github.com/julian-barker
+
 ## Growth Mindset
 
 - A growth mindset is one that focuses on the journey, rather than the destination. Contrasted with a fixed mindset, a growth mindset enables you to focus on constant progress, however small, and the power of compounding small improvements. A growth mindset says you can learn and change to better yourself!
