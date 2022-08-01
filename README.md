@@ -21,6 +21,16 @@
 2. Criticism is an important part of the feedback loop of progress - take it in, **reflect**, and apply it if necessary.
 3. The success of others does not take away from your own - rather, it should **inspire** you and maybe serve as azimuth for your progression.
 
+In the words of William Ernest Henley:
+
+> I am the master of my fate, 
+> I am the captain of my soul.
+
+## Reading Notes
+
+### Day 1
+
+- Nothing here yet
 
 ## Here's a link to my portfolio:
 
