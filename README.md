@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/67075338/182220758-1fd78e59-26e5-4f91-8aaf-b046fd877b1f.jpeg" alt="A rainy WAlk in the woods..." width="10rem">
+<img src="https://user-images.githubusercontent.com/67075338/182220758-1fd78e59-26e5-4f91-8aaf-b046fd877b1f.jpeg" alt="A rainy WAlk in the woods..." width="300px">
 
 ## About Me
 
