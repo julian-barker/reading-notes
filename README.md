@@ -49,4 +49,8 @@ In the words of William Ernest Henley:
   1. \! [alt text] (source)
   2. html: \<img src="source" alt="alt text"\>
   3. drag and drop an image into the edit box at the desired line
+- add color call-outs in three formats:
+  1. HEX (hexadecimal) - \`#RRGGBB\` - value 0-F - `#00FFFF`
+  2. RGB (redg/green/blue) - \`rgb(R,G,B)\` - value 0-255 - `rgb(255,0,255)`
+  3. HSL (hue/saturation/light) 0 \`hsl(H,S,L)\` - value H=0-360 S/L=0-100% - `hsl(200, 50%, 80%)`
 
