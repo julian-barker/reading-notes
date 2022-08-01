@@ -11,7 +11,7 @@
 - 📫 How to reach me ...
   - email: julian.c.barker@gmail.com
 
-### Portfolio:
+#### Portfolio:
 
 https://github.com/julian-barker
 
@@ -49,8 +49,4 @@ In the words of William Ernest Henley:
   1. \! [alt text] (source)
   2. html: \<img src="source" alt="alt text"\>
   3. drag and drop an image into the edit box at the desired line
-
-## Here's a link to my portfolio:
-
-https://github.com/julian-barker
 
