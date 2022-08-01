@@ -15,7 +15,7 @@
 
 1. Obstacles are opportunities for improvement. You *will* encounter problems - solving them is a critical skill in and of itself. (also, ask for help if you need!)
 2. Criticism is an important part of the feedback loop of progress - take it in, **reflect**, and apply it if necessary.
-3. Other people's success does not take away from your own - it should **inspire**.
+3. The success of others does not take away from your own - rather, it should **inspire** you and maybe serve as azimuth for your progression.
 
 
 ## Here's a link to my portfolio:
