@@ -1,12 +1,12 @@
 [Home](README.md)
 
-## Reading Assignment 4
+# Reading Assignment 4
 
-### Wireframing
+## Wireframing
 
 A wireframe is a design for a website that shows layout and interaction without other elements that could be distracting or are extraneous at this point in the process (such as text, colors, fonts). However, wireframes can have as little or as much detail as you desire. Some software tools to wireframe include Invision, Balsamiq, UXPin, and wireframe.cc, but wireframes can be created by hand with paper and pen/pencil. there are some advantages to this, as well as personal preference. Doing it on a computer allows easier saving and tracking of changes.
 
-#### Steps to Wireframe
+### Steps to Wireframe
 
 1. Research - Look for examples an inspiration
 2. Prepare research to reference - save examples and highlight specifics to reference
@@ -15,7 +15,7 @@ A wireframe is a design for a website that shows layout and interaction without 
 5. Add basic details and test - fill in top to bottom, left to right
 6. Prototype - go from low-fidelity to high-fidelity
 
-### All (Or just a little...) About HTML
+## All (Or just a little...) About HTML
 
 - HTML = **H**yper**t**ext **M**arkup **L**anguage
 - HTML is formed by elements that contain contain and nest within each other to create the structure of the webpage.

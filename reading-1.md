@@ -1,8 +1,8 @@
 [Home](README.md)
 
-## Reading Assignment 1
+# Reading Assignment 1
 
-### Using Markdown:
+## Using Markdown:
 
 - Markdown allows for basic in-line styling of plaintext on a website without using HTML or CSS
 - Use 1-6 hashtags (\#) at the start of a line to denote between 6 different levels of headings
