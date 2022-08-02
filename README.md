@@ -27,7 +27,7 @@
 
 In the words of William Ernest Henley:
 
-> I am the master of my fate, 
+> I am the master of my fate,
 > I am the captain of my soul.
 
 ## Reading Notes
