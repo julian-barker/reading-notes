@@ -39,3 +39,5 @@ In the words of William Ernest Henley:
 
 ### Day 2
 [Link to Reading 3 Notes](reading-3.md)
+
+[Link to Reading 4 Notes](reading-4.md)
