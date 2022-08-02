@@ -38,3 +38,4 @@ In the words of William Ernest Henley:
 [Link to Reading 2 Notes](reading-2.md)
 
 ### Day 2
+[Link to Reading 3 Notes](reading-3.md)
