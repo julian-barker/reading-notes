@@ -6,7 +6,7 @@
 
 - Markdown allows for basic in-line styling of plaintext on a website without using HTML or CSS
 - Use 1-6 hashtags (\#) at the start of a line to denote between 6 different levels of headings
-  - ex. \#\#\# would be Heading 3 (see "Day 1" above)
+  - ex. \#\#\# would be Heading 3 (see "Using Markdown" heading above)
 - Sandwich text between single asterisks (\*) or underscores (\_) to *italicize*
 - Sandwich text between single asterisks (\*\*) or underscores (\_\_) to make **bold**
 - Create an ordered list with a hyphen (\-) or asterisk (\*) followed by a space at the start of a line
