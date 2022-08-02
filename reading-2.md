@@ -1,3 +1,5 @@
+[Home](README.md)
+
 ## Reading Assignment 2
 
 ### Text Editors:
