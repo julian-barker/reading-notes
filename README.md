@@ -33,41 +33,13 @@ In the words of William Ernest Henley:
 ## Reading Notes
 
 ### Day 1
+[Link to Reading 1 Notes](reading-1.md)
 
-#### Using Markdown:
+[Link to Reading 2 Notes](reading-2.md)
 
-- Markdown allows for basic in-line styling of plaintext on a website without using HTML or CSS
-- Use 1-6 hashtags (\#) at the start of a line to denote between 6 different levels of headings
-  - ex. \#\#\# would be Heading 3 (see "Day 1" above)
-- Sandwich text between single asterisks (\*) or underscores (\_) to *italicize*
-- Sandwich text between single asterisks (\*\*) or underscores (\_\_) to make **bold**
-- Create an ordered list with a hyphen (\-) or asterisk (\*) followed by a space at the start of a line
-- Use backticks (\`) at the start and end of a portion of text to create an `in-line quote`
-- Use a right-facing carrot (\>) at the start of a line to create a block quote
-> Block quote
-- Add an image in one of three ways
-  1. \! [alt text] (source)
-  2. html: \<img src="source" alt="alt text"\>
-  3. drag and drop an image into the edit box at the desired line
-- Add color call-outs in three formats:
-  1. HEX (hexadecimal) - \`#RRGGBB\` - value 0-F - `#00FFFF`
-  2. RGB (redg/green/blue) - \`rgb(R,G,B)\` - value 0-255 - `rgb(255,0,255)`
-  3. HSL (hue/saturation/light) 0 \`hsl(H,S,L)\` - value H=0-360 S/L=0-100% - `hsl(200, 50%, 80%)`
-- Mention a person or a team with \@ followed by their name ex. @julian-barker . This will send send them a notification.
-- Add a link by pasting one in or typing the text or name of the link in brackets ( \[\] ) followed by the url in parentheses ex. \[My Reading Notes\](https://julian-barker.github.io/reading-notes/) becomes [My Reading Notes](https://julian-barker.github.io/reading-notes/)
+### Day 2
 
-#### Text Editors:
 
-- choosing a text editor is a personal choice. Your choices range from bare text editors to coding text editors to Integrated Development Environments (IDEs)
-  1. bare text editor - allows you to write text or code, but provides no helpful tools. Most operating systems have a native text editor such as Text edit for Mac.
-  2. coding text editor - Provides helpful tools such as auto-completion, syntax highlighting, cosmetic themes, and extensions to aid in your coding experience. Seom examples include notepad++, Vim, and VSCode
-  3. IDE - Integrated Development Environment - A full suite of software consisting of a text-editor, compiler, and debugger that allows you to do most or all of the coding process from that one platform. Often less flexible than a coding editor.
 
-### Terminal
 
-- pwd = print working directory
-- cd = change directory
-- mkdir = mk directory
-- ls = list contents of current directory (add -a to include hidden files)
-- file = get info on what type of file something is
-- deal with spaces in file names by surrounding with quotes or escaping the space character with a backslash
+
