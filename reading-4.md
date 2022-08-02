@@ -25,9 +25,9 @@ A wireframe is a design for a website that shows layout and interaction without 
 - Elements can nest within each other. A nested element opens after its parent opens and closes before its parent closes (
     - \<p> Stuff and things \<div> Text, text, text \</div> \</p>)
 - Different Elements:
-    - \<!DOCTYPE html> - a required tag at the start of an HTML file
-    - \<html> \</html> - a tag that wraps the entirety of the html content. The highest level container, or root element
-    - \<head> \</head> - contains all things to be included on the page that are not shown to viewers, such as style instructions and descriptions
-    - \<meta charset="utf-8"> - specifies the set of characters ofor the document to use
-    - \<title> \</title> - sets the title of the page that appears in the browser tab
-    - \<body> \</body> - contains averything on the page you wish to show to the viewers
+    - **\<!DOCTYPE html>** - a required tag at the start of an HTML file
+    - **\<html> \</html>** - a tag that wraps the entirety of the html content. The highest level container, or root element
+    - **\<head> \</head>** - contains all things to be included on the page that are not shown to viewers, such as style instructions and descriptions
+    - **\<meta charset="utf-8">** - specifies the set of characters ofor the document to use
+    - **\<title> \</title>** - sets the title of the page that appears in the browser tab
+    - **\<body> \</body>** - contains everything on the page you wish to show to the viewers
