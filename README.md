@@ -43,3 +43,6 @@ In the words of William Ernest Henley:
 [Link to Reading 3 Notes](reading-3.md)
 
 [Link to Reading 4 Notes](reading-4.md)
+
+### Day 3
+[Link to Reading 4 Notes](reading-5.md)
