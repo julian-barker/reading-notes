@@ -18,4 +18,4 @@ There are 4 ways to declare variables in javascript:
 
 ### Input and Output
 
-Javascript and HTML work together to provide interactivity with the user.
+Javascript and HTML work together to provide interactivity with the user. Similar to CSS, you can wirte javascript in your HTML file, or you can link to an esternal javascript (.js) file.
