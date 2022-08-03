@@ -46,3 +46,5 @@ In the words of William Ernest Henley:
 
 ### Day 3
 [Link to Reading 4 Notes](reading-5.md)
+
+[Link to Reading 4 Notes](reading-6.md)
