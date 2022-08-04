@@ -14,8 +14,8 @@ There are 4 ways to declare variables in javascript:
 - var: outdated, but must be used for older browsers
 - let: declares a variable that can be changed
 - const: declares a variable that cannot be changed
-- nothing: varables can just be assigned without a keyword
+- nothing: variables can just be assigned without a keyword
 
 ### Input and Output
 
-Javascript and HTML work together to provide interactivity with the user. Similar to CSS, you can wirte javascript in your HTML file, or you can link to an esternal javascript (.js) file.
+Javascript and HTML work together to provide interactivity with the user. Similar to CSS, you can write javascript in your HTML file, or you can link to an external javascript (.js) file.
