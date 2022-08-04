@@ -52,3 +52,5 @@ In the words of William Ernest Henley:
 ### Day 4
 
 [Link to Reading 7 Notes](reading-7.md)
+
+[Link to Reading 8 Notes](reading-8.md)
