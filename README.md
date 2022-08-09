@@ -32,9 +32,8 @@ In the words of William Ernest Henley:
 > I am the master of my fate,
 > I am the captain of my soul.
 
-## Reading Notes
 
-### Code 102
+## Code 102 Reading Notes
 
 [Link to Reading 1 Notes](102/reading-1.md)
 
@@ -52,19 +51,19 @@ In the words of William Ernest Henley:
 
 [Link to Reading 8 Notes](102/reading-8.md)
 
-### Code 201
+## Code 201 Reading Notes
 
-#### Week 1
-
-
-
-#### Week 2
+### Week 1
 
 
 
-#### Week 3
+### Week 2
 
 
 
-#### Week 4
+### Week 3
+
+
+
+### Week 4
 
