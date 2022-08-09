@@ -34,23 +34,37 @@ In the words of William Ernest Henley:
 
 ## Reading Notes
 
-### Day 1
-[Link to Reading 1 Notes](reading-1.md)
+### Code 102
 
-[Link to Reading 2 Notes](reading-2.md)
+[Link to Reading 1 Notes](reading-1-102.md)
 
-### Day 2
-[Link to Reading 3 Notes](reading-3.md)
+[Link to Reading 2 Notes](reading-2-102.md)
 
-[Link to Reading 4 Notes](reading-4.md)
+[Link to Reading 3 Notes](reading-3-102.md)
 
-### Day 3
-[Link to Reading 5 Notes](reading-5.md)
+[Link to Reading 4 Notes](reading-4-102.md)
 
-[Link to Reading 6 Notes](reading-6.md)
+[Link to Reading 5 Notes](reading-5-102.md)
 
-### Day 4
+[Link to Reading 6 Notes](reading-6-102.md)
 
-[Link to Reading 7 Notes](reading-7.md)
+[Link to Reading 7 Notes](reading-7-102.md)
 
-[Link to Reading 8 Notes](reading-8.md)
+[Link to Reading 8 Notes](reading-8-102.md)
+
+### Code 201
+
+#### Week 1
+
+
+
+#### Week 2
+
+
+
+#### Week 3
+
+
+
+#### Week 4
+
