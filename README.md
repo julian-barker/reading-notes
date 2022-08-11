@@ -54,7 +54,7 @@ In the words of William Ernest Henley:
 ## Code 201 Reading Notes
 
 ### Week 1
-
+[Link to Class 01 Notes](201/class-01.md)
 
 
 ### Week 2
