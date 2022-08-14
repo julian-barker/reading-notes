@@ -1,4 +1,4 @@
-[Home](README.md)
+[Home](../README.md)
 
 # Linux
 
@@ -33,7 +33,6 @@
 - `less <file>` - used to view longer files
     - arrow keys scroll up/down in the file
     - spacebar jumps to the next page
--
 
 ## Vi Text Editor
 
@@ -73,3 +72,15 @@
 - **Note: commands in this section were taken directly from ryanstutorials.net**
 
 ## Wildcards
+
+- wildcards allow you to define a set of files or directories
+- `*` - represents zero or more characters
+    - ex. `b*` refers to anything starting with the letter "b"
+- `?` - represents a single character
+    - ex. `?i*` refers to anything with "i" as the second letter
+- `[]` - represents a range of characters
+    - ex. `[sv]*` refers to anything beginning in "s" or "v"
+    - `*[0-9]*` refers to anything containing a numerical digit
+    - `[^a-k]*` refers to anything **NOT** beginning in "a" through "k"
+
+
