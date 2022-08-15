@@ -1,5 +1,7 @@
 [Home](../README.md)
 
+- **Note: commands in this section were taken directly from ryanstutorials.net**
+
 # Linux
 
 ## About Linux
@@ -68,7 +70,6 @@
 - Undoing:
     - `u` - Undo the last action (you may keep pressing u to keep undoing)
     - `U` (Note: capital) - Undo all changes to the current line
-- **Note: commands in this section were taken directly from ryanstutorials.net**
 
 ## Wildcards
 
@@ -81,4 +82,70 @@
     - ex. `[sv]*` refers to anything beginning in "s" or "v"
     - `*[0-9]*` refers to anything containing a numerical digit
     - `[^a-k]*` refers to anything **NOT** beginning in "a" through "k"
+
+## Permissions
+
+- 3 things you can do with a Linux file:
+    - `r` read - you may view the contents of the file.
+    - `w` write - you may change the contents of the file.
+    - `x` execute - you may execute or run the file if it is a program or script.
+- 3 sets of people to define rights for:
+    - `owner` - a single person who owns the file
+    - `group` - a single group of people
+    - `others` - everyone who is not the owner or in the group
+- view permissions with the long list command `ls -l`
+- `chmod [permissions] [path]` changes permissions for a file
+    - permissions argument consists of 3 components:
+        - who? - `owner`, `group`, `others`, `all`
+        - grant or revoke? - `+` or `-`
+        - which permission? `r`, `w`, `x`
+- rwx permissions can be represented in binary as 3 on/off digits, and then converted to decimal. 
+    - r: on, w: off, x: off = 4
+    - 3 decimal digits can be used together as shorthand to define permissions for owner, group, others (i.e. 750)
+
+## Filters
+
+- A principle of Linux is that every item should do one thing only.
+- To do multiple things, we join these items together
+- A filter in Linux accepts text data and transforms it in some way
+- `head` - prints the first few lines of a file. 10 lines by default
+- `tail` - prints the last few lines of a file. 10 lines by default
+- `sort [options] [path]` - sorts the contents of a file. sorts alphabetically by default
+- `nl [options] [path]` - displays contents with numbered lines
+    - `-s` - what comes after the number (".", ")")
+    - `-w` - amount of padding before the number
+- `wc` - word count. also gives line and character counts
+    - `-l` - lines only
+    - `-w` - words only
+    - `-m` - characters only
+- `cut` - pulls certain content if contents are separated into columns
+- `sed <expression> [path]` - stream editor: essentially search and replace
+    - expression is `s/search/replace/g`
+        - `s` = subsitute
+        - `g` = global; optional. If omitted, it will only apply to the first found term on each line
+- `uniq` - unique: removes duplicate lines
+- `tac` - opposite of `cat`. prints contents last line to first line
+
+## Grep and Regular Expressions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
