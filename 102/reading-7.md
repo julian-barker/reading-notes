@@ -42,4 +42,4 @@
     - `<` less than
     - `>=` greater than or equal to
     - `<=` less than or equal to
-    - `?` evaluates an expression and executes one espression if truthy and a different expression if falsy
+    - `?` evaluates an expression and executes one expression if truthy and a different expression if falsy

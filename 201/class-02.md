@@ -80,7 +80,7 @@
         - `<` less than
         - `>=` greater than or equal to
         - `<=` less than or equal to
-        - `?` evaluates an expression and executes one espression if truthy and a different expression if falsy
+        - `?` evaluates an expression and executes one expression if truthy and a different expression if falsy
     - `&&` is logical `and` and evaluates to `true` if both operands are `true`, and `false` if one or more operands is `false`
     - `||` is logical `or` and evaluates to `true` if one or more operands is `true`, and `false` if both operands are `false`
 
