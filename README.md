@@ -60,6 +60,12 @@ In the words of William Ernest Henley:
 
 [Link to Class 02 Notes](201/class-02.md)
 
+[Link to Class 03 Notes](201/class-03.md)
+
+[Link to Class 04 Notes](201/class-04.md)
+
+[Link to Class 05 Notes](201/class-05.md)
+
 
 ### Week 2
 
