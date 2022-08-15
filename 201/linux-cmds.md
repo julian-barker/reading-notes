@@ -36,7 +36,6 @@
 
 ## Vi Text Editor
 
-
 - vi is a command line text editor
 - commands starting off with a colon `:` require you to press enter to execute - all others execute upon pressing a key/combination
 - `vi <file>` - opens a file in vi
@@ -82,5 +81,4 @@
     - ex. `[sv]*` refers to anything beginning in "s" or "v"
     - `*[0-9]*` refers to anything containing a numerical digit
     - `[^a-k]*` refers to anything **NOT** beginning in "a" through "k"
-
 
