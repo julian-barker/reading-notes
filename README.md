@@ -58,6 +58,8 @@ In the words of William Ernest Henley:
 
 [Link to Linux Commands Notes](201/linux-cmds.md)
 
+[Link to Class 02 Notes](201/class-02.md)
+
 
 ### Week 2
 
