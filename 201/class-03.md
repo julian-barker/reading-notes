@@ -53,6 +53,7 @@
 - Shorthand assignment operators make for cleaner and quicker code
     - `+=` is the same as `x = x + y`
     - `-=`, `*=`, `/=`, `**=`, and `%=` thus all function in the same pattern as `+=`
+- The expression `(10 + false) + 'dog'` evaluates to '10dog' because the false is falsy, which can be evaluated to zero for mathematical purposes, resulting in 10. 10 then gets converted to a string ('10') to concatenate with 'dog', resulting in '10dog'
 - A conditional can be used inside a javascript program to validate input from a user. For example, if an input field asks for a number input, we can use conditionals and the isNaN function to prevent any inputs that are not numbers
 - Loops are useful in Javascript when we need to perform repetetive actions, either for a predetermined time, for all values in an array, for an undetermined amount of time until a condition is met, etc.
     - An example would be accessing a stored array of test scores for a class to add them all together and take the average (Note: this specific example can be done more easily with the .reduce method)
