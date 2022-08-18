@@ -11,7 +11,7 @@
 
 ## CSS Normal Flow and Positioning
 
-1. Normal flow describes the way an HTML documents contents are layed out without any external styling.
+1. Normal flow describes the way an HTML documents contents are laid out without any external styling.
 2. Inline vs block-level elements:
     - A block level element fills the inline space of its parent element. By default, block-level elements appear in the block flow direction, which by default places each block on a new line under the previous block, separated by margins.
     - An inline element is the size of its content. Unlike block level elements, you cannot set their width and height. By default, inline elements sit next to each other
@@ -19,7 +19,7 @@
 4. Absolute positioning is uesful to create elements that do not interfere existing elements. Examples could be popup windows, UI features, some menus, etc.
 5. Absolute positioning causes an element to sit outside of the normal flow of the rest of the elements. Instead, it is positioned relative to it's container element on a separate layer from everything else.
 
-## Javascript Fucntions
+## Javascript Functions
 
 - Functions allow us to execute complex code and gives us the ability to reuse that code multiple times!
 
@@ -33,5 +33,5 @@
     - Both programmers are more focused
     - Both programmers can learn from each other
     - Pair programming improves social skills important to working on teams
-    - Pair programming helps prepare for potential job intterviews
+    - Pair programming helps prepare for potential job interviews
     - Pair programming is frequently used for new hires, so being accustomed to it can prepare you to be off to a good start in a new job
