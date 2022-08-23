@@ -14,3 +14,4 @@
   - ability to wrap
   - items can be ordered away from their DOM order
   - empty space can be distributed to items - dynamic sizing of children
+- Flex will be useful to create sites that can handle being viewed on screens of various size, which is obviously applicable for developers these days, with users viewing on phones, tablets, and computers
