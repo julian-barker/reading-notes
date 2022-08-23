@@ -54,6 +54,7 @@ In the words of William Ernest Henley:
 ## Code 201 Reading Notes
 
 ### Week 1
+
 [Link to Class 01 Notes](201/class-01.md)
 
 [Link to Linux Commands Notes](201/linux-cmds.md)
@@ -66,10 +67,17 @@ In the words of William Ernest Henley:
 
 [Link to Class 05 Notes](201/class-05.md)
 
-
 ### Week 2
 
+[Link to Class 06 Notes](201/class-06.md)
 
+[Link to Class 07 Notes](201/class-07.md)
+
+[Link to Class 08 Notes](201/class-08.md)
+
+[Link to Class 09 Notes](201/class-09.md)
+
+[Link to Class 10 Notes](201/class-10.md)
 
 ### Week 3
 
