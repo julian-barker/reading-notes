@@ -4,7 +4,7 @@
 
 ## Audio and Video
 
-- Early in the web's life, video and audio were not natively supported by HTML, and were embeddedthrough software solutions like Flash, which had security issues. HTML now has native support with the `<audio>` and `<video>` tags.
+- Early in the web's life, video and audio were not natively supported by HTML, and were embedded through software solutions like Flash, which had security issues. HTML now has native support with the `<audio>` and `<video>` tags.
 - The `<video>` tag is used to embed video into a page.
   - `src` works the same as in the `<img>` tag and specifies the location for the browser to find the video.
   - `controls` is an attribute with no value that tells the browser to implement its own native form of video controls. If you wish to specify your own format, it must at least include stop/play, and volume control functionality.
@@ -22,7 +22,7 @@
 
 >Because of those patents, browsers that wish to implement support for those codecs must pay typically enormous license fees. In addition, some people prefer to avoid restricted software and prefer to use only open formats. Due to these legal and preferential reasons, web developers find themselves having to support multiple formats to capture their entire audience. --MDN Web Docs
 
-- to provide multiple formats for a/v, we can take the source attribut out of the a/v tag and place it in the content as its own tag, like so:
+- to provide multiple formats for a/v, we can take the source attribute out of the a/v tag and place it in the content as its own tag, like so:
 
 ``` HTML
 <video controls>
@@ -44,7 +44,7 @@
 - The `<audio>` tag is similar to the its video counterpart, save for a few differences:
   - It does not take up significant space on the screen. Because of this, it supports neither the `width`/`height` attributes, nor the `poster` attribute.
 
-- We use WebVTT eith the `<track>` element to provide cues such as timed descriptions, subtitles, and captions.
+- We use WebVTT with the `<track>` element to provide cues such as timed descriptions, subtitles, and captions.
 - `<track>` should be placed after all `<source>` elements, and should link to a .vtt file with the `src` attribute. The `kind` attribute specifies if it is captions, subtitles, or timed descriptions. `srclang` tells the browser what language the subs are in. `label` helps readers find the language they are looking for.
 
 - Example:
@@ -55,7 +55,7 @@
 
 ## CSS Grid
 
-- CSS Grid is a powerful CSS module that, in contrast with Flex, allows us to arrang items in two dimensions instead of one.
+- CSS Grid is a powerful CSS module that, in contrast with Flex, allows us to arrange items in two dimensions instead of one.
 - It is used with `display: grid` on a parent container, similar to Flex
 - `inline-grid` creates an inline-level grid
 - A grid-line is a vertical or horizontal line used to define the cells in between.
@@ -97,13 +97,13 @@
 - `fr` is fractional units and refers to a portion of the free space after explicit sizes are given. Ex. 1fr 1fr 1fr 60px would give the right-most column 60px width, and the first three columns would evenly divide the remaining space on the left.
 - `minmax()` sets a min and max for the length, which is useful in combo with fr units, if you only want columns to be able to shrink so far.
 - `repeat()` takes a number and a size, and equates to that number amount of columns or rows of that size.
-- `display: contents` can be given to a grid-item to plae child elements on the same grid as the parent, similar to subgrids (which are currently only supported in firefox)
+- `display: contents` can be given to a grid-item to place child elements on the same grid as the parent, similar to subgrids (which are currently only supported in firefox)
 
 ## Responsive Images
 
 - Responsive images are images that work well on screens of differing sizes.
-- Responsive images can improve the site by providing a better viewing experience for users, by not having adverse affects on the layout or visibility of other elements, and by consesrving user bandwidth when possible.
+- Responsive images can improve the site by providing a better viewing experience for users, by not having adverse affects on the layout or visibility of other elements, and by conserving user bandwidth when possible.
 - `srcset` is used in conjunction with `src` to specify multiple images to use for different scenarios. It takes its images' intrinsic widths ( in `w`, not `px`)
-- `sizes` provides the various sizes to dislpay the different images at. It is used in conjunction with a media condition, ie `(max-width: 600px) 480px` meaning that on screen sizes of 600px and smaller, display the corresponding image at 480px.
+- `sizes` provides the various sizes to display the different images at. It is used in conjunction with a media condition, ie `(max-width: 600px) 480px` meaning that on screen sizes of 600px and smaller, display the corresponding image at 480px.
 - `srcset` is helpful because images are loaded before any CSS or javascript, meaning you could not use javascript to immediately read the image, gather its size, and change it appropriately. `srcset` allows this
 - `<picture>` is used with `<source>` tags for art direction to provide different images for different sizes. You must provide an `<img>` right before the `</picture>`, as a default.
