@@ -81,14 +81,14 @@ In the words of William Ernest Henley:
 
 ### Week 3
 
-[Link to Class 06 Notes](201/class-11.md)
+[Link to Class 11 Notes](201/class-11.md)
 
-[Link to Class 07 Notes](201/class-12.md)
+[Link to Class 12 Notes](201/class-12.md)
 
-[Link to Class 08 Notes](201/class-13.md)
+[Link to Class 13 Notes](201/class-13.md)
 
-[Link to Class 09 Notes](201/class-14.md)
+[Link to Class 14 Notes](201/class-14.md)
 
-[Link to Class 10 Notes](201/class-15.md)
+[Link to Class 15 Notes](201/class-15.md)
 
 ### Week 4
