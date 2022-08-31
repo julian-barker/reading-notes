@@ -87,7 +87,9 @@ In the words of William Ernest Henley:
 
 [Link to Class 13 Notes](201/class-13.md)
 
-[Link to Class 14 Notes](201/class-14.md)
+[Link to Class 14 Notes](201/class-14a.md)
+
+[Link to Class 14 Notes](201/class-14b.md)
 
 [Link to Class 15 Notes](201/class-15.md)
 
