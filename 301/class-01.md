@@ -2,7 +2,7 @@
 
 # Class 01
 
-## Initital Questions
+## Initial Questions
 
 ### What is React?
 
@@ -28,7 +28,7 @@ React is a User Interface library. This means that it will be used to create use
 
 Data flows down one way through an app.
 
-### Every component manages its own ____.
+### Every component manages its own ____.˚
 
 Every component manages its own state.
 
@@ -39,7 +39,7 @@ Every component manages its own state.
 - A component is a modular, portable, replaceable, and reusable set of functionality that encapsulates its implementation
 - Component views:
   - Object-oriented view - a component is a set of two or more cooperating classes
-  - Conventional view - a component is a functional element that icorporates the processes, data structures, and interface required to use it
+  - Conventional view - a component is a functional element that incorporates the processes, data structures, and interface required to use it
   - Process-related view - as opposed to creating components, the system leverages existing components from libraries
 
 - Component Characteristics:
