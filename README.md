@@ -95,15 +95,15 @@ In the words of William Ernest Henley:
 
 ### Week 1
 
-[Link to Class 01 Notes](301/react.md)
+[Link to Class 01 Notes](301/class-01.md)
 
-[Link to Class 02 Notes](301/react.md)
+[Link to Class 02 Notes](301/class-02.md)
 
-[Link to Class 03 Notes](301/react.md)
+[Link to Class 03 Notes](301/class-03.md)
 
-[Link to Class 04 Notes](301/react.md)
+[Link to Class 04 Notes](301/class-04.md)
 
-[Link to Class 05 Notes](301/react.md)
+[Link to Class 05 Notes](301/class-05.md)
 
 ### Week 2
 
