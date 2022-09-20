@@ -1,34 +1,71 @@
 [Home](../README.md)
 
-# Class 02
+# Class 01
 
-## Reading
+## Initial Questions
 
-- Mounting, Updating, and Unmounting are the three phases of a React component's lifecycle
-- Mounting phase is when a component gets created and inserted into the DOM
-  - The following lifecycle events happen in the mounting phase in the following order:
-    - static `getDerivedStateFromProps`, `render`, `componentDidMount`, and `UNSAFE_componentWillMount`
-  - Additionally, the constructor function executes in the mounting phase
-- Updating phase is when a component is in the DOM. During this phase, a component can be updated or undergo state changes
-  - The following lifecycle events happen in the updating phase in the following order:
-    - static `getDerivedStateFromProps`, `shouldComponentUpdate`, `render`,
-`getSnapshotBeforeUpdate`, `componentDidUpdate`, `UNSAFE_componentWillUpdate`, `UNSAFE_componentWillReceiveProps`
-- Unmounting phase is when a component is being removed from the DOM
-  - The only lifecycle event in the mounting phase is `componentWillUnmount`
-- `render()` - the only required method in a class component, and should not modify `this.state`
-- `componentDidMount()` - this method is called after the component mounts
-- `shouldComponentUpdate()` - by default, react rerenders after every update. If this method is set to `false`, then `UNSAFE_componentWillUpdate()`, `render()`, and `componentDidUpdate()` will not be called
-- `componentDidUpdate()` - useful for performing network requests after a componenet updates
-- `componentWillUnmount()` - this method is used to clean up the DOM and subscriptions
+### What is React?
 
-1. render() happens before componentDidMount()
-2. The very first action in React is the calling of a component's constructor function
-3. constructor -> render -> React Updates -> componentDidMount -> componentWillUnmount
-4. componentDidMount executes a specified set of instructions as soon as the component is mounted
+React is a user-interface (UI) library. It has a component architecture, one-way data flow, and component state.
 
-## Video
+### What is a component?
 
-1. Props are like arguments to a function - you can pass anything into a component's props (primitives, objects, functions, etc.)
-2. Props are passed into a component and state resides and is handled within a component
-3. We rerender any time state is changed within a component
-4. State is useful for things such as a counter that may change based on events or over time, and affect the way a component looks or behaves. State is used for data that will never be used by any component higher than the component it resides in
+A component is a small piece of a site.
+
+### What is the dataflow of React?
+
+It's the passing of state data from one component to another.
+
+### How do we make a React element a DOM element?
+
+Pass it through react-DOM library with the .render() method.
+
+### React is a User Interface ______.
+
+React is a User Interface library. This means that it will be used to create user interfaces for sites.
+
+### Which direction does data flow in React?
+
+Data flows down one way through an app.
+
+### Every component manages its own ____.˚
+
+Every component manages its own state.
+
+## Component-based Architecture
+
+- Component-based architecture breaks up design into smaller functional or logical pieces (components)
+- The primary objective is to ensure component reusability
+- A component is a modular, portable, replaceable, and reusable set of functionality that encapsulates its implementation
+- Component views:
+  - Object-oriented view - a component is a set of two or more cooperating classes
+  - Conventional view - a component is a functional element that incorporates the processes, data structures, and interface required to use it
+  - Process-related view - as opposed to creating components, the system leverages existing components from libraries
+
+- Component Characteristics:
+  - reusable
+  - replaceable
+  - not context-specific
+  - extensible
+  - encapsulated
+  - independent
+
+- Component Advantages:
+  - ease of deployment
+  - reduced cost
+  - ease of development
+  - reusable
+  - modification of technical complexity
+  - reliability
+  - system maintenance and evolution
+  - independent
+
+### Takeaways
+
+- Seems like a bad marketing pitch to me...
+
+## Props
+
+- Props is short for properties and refers to properties of a component
+- Props are used to pass data from parent to child components
+- The flow of data in props is one-way and only travels down the hierarchy (parent -> child)
