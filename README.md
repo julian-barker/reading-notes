@@ -107,6 +107,16 @@ In the words of William Ernest Henley:
 
 ### Week 2
 
+[Link to Class 06 Notes](301/class-06.md)
+
+[Link to Class 07 Notes](301/class-07.md)
+
+[Link to Class 08 Notes](301/class-08.md)
+
+[Link to Class 09 Notes](301/class-09.md)
+
+[Link to Class 10 Notes](301/class-10.md)
+
 ### Week 3
 
 ### Week 4
