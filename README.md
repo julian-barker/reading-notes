@@ -121,6 +121,6 @@ In the words of William Ernest Henley:
 
 ### Week 4
 
-## Other Notes
+## Other
 
-[Link to Linux Commands Notes](other/linux-cmds.md)
+[Link to Linux Commands Notes](Other/linux-cmds.md)
