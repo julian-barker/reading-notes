@@ -123,4 +123,4 @@ In the words of William Ernest Henley:
 
 ## Other
 
-[Link to Linux Commands Notes](201/linux-cmds.md)
+[Link to Linux Commands Notes](other/linux-cmds.md)
