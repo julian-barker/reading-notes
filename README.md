@@ -131,6 +131,10 @@ In the words of William Ernest Henley:
 
 ## 401
 
+### Pre-work
+
+[Link to SQL Notes](401/SQL.md)
+
 ### Week 1
 
 ## Other
