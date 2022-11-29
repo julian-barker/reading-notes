@@ -137,6 +137,10 @@ In the words of William Ernest Henley:
 
 ### Week 1
 
+[Link to Class 1 Notes](401/class-01.md)
+
+[Link to Class 2 Notes](401/class-02.md)
+
 ## Other
 
 [Link to Linux Commands Notes](Other/linux-cmds.md)
