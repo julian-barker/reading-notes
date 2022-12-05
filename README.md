@@ -29,61 +29,61 @@ In the words of William Ernest Henley:
 
 ## Code 102 Reading Notes
 
-[Link to Reading 1 Notes](102/reading-1.md)
+[Reading 1 Notes](102/reading-1.md)
 
-[Link to Reading 2 Notes](102/reading-2.md)
+[Reading 2 Notes](102/reading-2.md)
 
-[Link to Reading 3 Notes](102/reading-3.md)
+[Reading 3 Notes](102/reading-3.md)
 
-[Link to Reading 4 Notes](102/reading-4.md)
+[Reading 4 Notes](102/reading-4.md)
 
-[Link to Reading 5 Notes](102/reading-5.md)
+[Reading 5 Notes](102/reading-5.md)
 
-[Link to Reading 6 Notes](102/reading-6.md)
+[Reading 6 Notes](102/reading-6.md)
 
-[Link to Reading 7 Notes](102/reading-7.md)
+[Reading 7 Notes](102/reading-7.md)
 
-[Link to Reading 8 Notes](102/reading-8.md)
+[Reading 8 Notes](102/reading-8.md)
 
 ## Code 201 Reading Notes
 
 ### Week 1
 
-[Link to Class 01 Notes](201/class-01.md)
+[Class 01 Notes](201/class-01.md)
 
-[Link to Class 02 Notes](201/class-02.md)
+[Class 02 Notes](201/class-02.md)
 
-[Link to Class 03 Notes](201/class-03.md)
+[Class 03 Notes](201/class-03.md)
 
-[Link to Class 04 Notes](201/class-04.md)
+[Class 04 Notes](201/class-04.md)
 
-[Link to Class 05 Notes](201/class-05.md)
+[Class 05 Notes](201/class-05.md)
 
 ### Week 2
 
-[Link to Class 06 Notes](201/class-06.md)
+[Class 06 Notes](201/class-06.md)
 
-[Link to Class 07 Notes](201/class-07.md)
+[Class 07 Notes](201/class-07.md)
 
-[Link to Class 08 Notes](201/class-08.md)
+[Class 08 Notes](201/class-08.md)
 
-[Link to Class 09 Notes](201/class-09.md)
+[Class 09 Notes](201/class-09.md)
 
-[Link to Class 10 Notes](201/class-10.md)
+[Class 10 Notes](201/class-10.md)
 
 ### Week 3
 
-[Link to Class 11 Notes](201/class-11.md)
+[Class 11 Notes](201/class-11.md)
 
-[Link to Class 12 Notes](201/class-12.md)
+[Class 12 Notes](201/class-12.md)
 
-[Link to Class 13 Notes](201/class-13.md)
+[Class 13 Notes](201/class-13.md)
 
-[Link to Class 14 Notes](201/class-14a.md)
+[Class 14 Notes](201/class-14a.md)
 
-[Link to Class 14 Notes](201/class-14b.md)
+[Class 14 Notes](201/class-14b.md)
 
-[Link to Class 15 Notes](201/class-15.md)
+[Class 15 Notes](201/class-15.md)
 
 ### Week 4
 
@@ -91,56 +91,58 @@ In the words of William Ernest Henley:
 
 ### Pre-work
 
-[Link to React Notes](301/react.md)
+[React Notes](301/react.md)
 
 ### Week 1
 
-[Link to Class 01 Notes](301/class-01.md)
+[Class 01 Notes](301/class-01.md)
 
-[Link to Class 02 Notes](301/class-02.md)
+[Class 02 Notes](301/class-02.md)
 
-[Link to Class 03 Notes](301/class-03.md)
+[Class 03 Notes](301/class-03.md)
 
-[Link to Class 04 Notes](301/class-04.md)
+[Class 04 Notes](301/class-04.md)
 
-[Link to Class 05 Notes](301/class-05.md)
+[Class 05 Notes](301/class-05.md)
 
 ### Week 2
 
-[Link to Class 06 Notes](301/class-06.md)
+[Class 06 Notes](301/class-06.md)
 
-[Link to Class 07 Notes](301/class-07.md)
+[Class 07 Notes](301/class-07.md)
 
-[Link to Class 08 Notes](301/class-08.md)
+[Class 08 Notes](301/class-08.md)
 
-[Link to Class 09 Notes](301/class-09.md)
+[Class 09 Notes](301/class-09.md)
 
-[Link to Class 10 Notes](301/class-10.md)
+[Class 10 Notes](301/class-10.md)
 
 ### Week 3
 
-[Link to Class 11 Notes](301/class-11.md)
+[Class 11 Notes](301/class-11.md)
 
-[Link to Class 12 Notes](301/class-12.md)
+[Class 12 Notes](301/class-12.md)
 
-[Link to Class 13 Notes](301/class-13.md)
+[Class 13 Notes](301/class-13.md)
 
-[Link to Class 14 Notes](301/class-14.md)
+[Class 14 Notes](301/class-14.md)
 
-[Link to Class 15 Notes](301/class-15.md)
+[Class 15 Notes](301/class-15.md)
 
 ## 401
 
 ### Pre-work
 
-[Link to SQL Notes](401/SQL.md)
+[SQL Notes](401/SQL.md)
+
+[Growth Mindset](401/growth-mindset.md)
 
 ### Week 1
 
-[Link to Class 1 Notes](401/class-01.md)
+[Class 1 Notes](401/class-01.md)
 
-[Link to Class 2 Notes](401/class-02.md)
+[Class 2 Notes](401/class-02.md)
 
 ## Other
 
-[Link to Linux Commands Notes](Other/linux-cmds.md)
+[Linux Commands Notes](Other/linux-cmds.md)
