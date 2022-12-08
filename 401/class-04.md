@@ -5,11 +5,10 @@
 ## NoSQL vs SQL
 
 - SQL is better suited for the complex query environment.
-- NoSQL is better for representing hierarchechal data with deep nesting.
+- NoSQL is better for representing hierarchical data with deep nesting.
 - SQL databases scale vertically by requiring more resources on the machine, whereas NoSQL databases scale horizontally by adding more machines.
 - In SQL, keywords are capitalized by convention, and parameters are generally lowercase
 - Normalization refers to removing duplicate data in db consisting of a set of related tables.
-- 
 
 ## SQL Modeling Techniques
 
