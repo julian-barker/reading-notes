@@ -143,6 +143,18 @@ In the words of William Ernest Henley:
 
 [Class 2 Notes](401/class-02.md)
 
+[Class 3 Notes](401/class-03.md)
+
+[Class 4 Notes](401/class-04.md)
+
+[Class 5 Notes](401/class-05.md)
+
+[Class 6 Notes](401/class-06.md)
+
+[Class 7 Notes](401/class-07.md)
+
+[Class 9 Notes](401/class-08.md)
+
 ## Other
 
 [Linux Commands Notes](Other/linux-cmds.md)
