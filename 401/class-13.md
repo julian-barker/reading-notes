@@ -1,6 +1,6 @@
 [Home](../README.md)
 
-# Class 12
+# Class 13
 
 ## Message Queues
 
@@ -18,6 +18,6 @@
 
 ### Namespaces
 
-- namespaces also compartmentalize data flow across a socket. 
+- namespaces also compartmentalize data flow across a socket.
 - they have their own handlers, rooms, and middlewares
 - these can be restricted to certain users and implement different logic for those users
