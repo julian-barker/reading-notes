@@ -14,10 +14,9 @@
 
 - EC2 is the first link under the "compute" section
 - The difference between T2 micro and XL is the amount of memory available, in GB of RAM
-- 
 
 ### Elastic Beanstalk
 
 - Elastic beanstalk is an easy way to spin up an EC2 instance. It is sort of analagous to other hosting services such as Heroku or Render.
 - Elastic beanstalk requires less cofiguration than doing the same thing manually with an EC2 instance.
-- I t automatically provides scaling, diagnostics/metrics, and load-balancing
+- It automatically provides scaling, diagnostics/metrics, and load-balancing
